@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Yekan;
+  font-style: normal;
+  src: url("./Vazir-Light.ttf") format("woff");
+}
+
+@font-face {
+  font-family: Yekan-Bold;
+  font-style: bold;
+  src: url("./Vazir-Bold.ttf") format("woff");
+}
